@@ -1,6 +1,4 @@
 # monty interpreter
-![alt text](https://github.com/betascribbles/monty/blob/main/images/monty.png?raw=true)
-
 
 ## The Monty language
 <p>
@@ -52,6 +50,6 @@ julien@ubuntu:~/monty$
 ```monty filename```
 
 ## AUTHORS<br/>
-Beta Hassan<br/>
-Omar || Njagi Ndungo
+Philemon Olang<br/>
+Adega Adega
 
